@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP Plugin Doctor
- * Plugin URI: https://yoursite.com/wp-plugin-doctor
+ * Plugin URI: https://github.com/tishasub/WP-Plugin-Doctor
  * Description: Automatically detects plugin conflicts, monitors PHP errors, and provides actionable solutions to fix WordPress site issues.
  * Version: 1.0.0
  * Author: tisha92
